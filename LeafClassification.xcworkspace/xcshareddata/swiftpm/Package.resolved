@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "reachability",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alecrim/Reachability.git",
+      "state" : {
+        "revision" : "33d2cf1dc5c5962683b6fc913ac652ebc4d6c8e1",
+        "version" : "1.2.1"
+      }
+    },
+    {
+      "identity" : "wikipediakit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Raureif/WikipediaKit.git",
+      "state" : {
+        "revision" : "09538e1383017e50a2a940ebc72d0c62c8b4488c",
+        "version" : "3.0.4"
+      }
+    }
+  ],
+  "version" : 2
+}

@@ -1,0 +1,9 @@
+{
+  "MLModelVersionStringKey" : "1.0",
+  "MLModelDescriptionKey" : "Plant classifier model",
+  "MLModelCreatorDefinedKey" : {
+    "com.github.apple.coremltools.version" : "7.0",
+    "com.github.apple.coremltools.source" : "tensorflow==2.14.0"
+  },
+  "MLModelAuthorKey" : "KhangB1910652"
+}

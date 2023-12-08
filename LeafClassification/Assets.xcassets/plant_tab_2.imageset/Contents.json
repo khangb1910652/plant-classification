@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "195-1959123_fall-leaf-red-mountain-bokeh-iphone-7-wallpaper.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "195-1959123_fall-leaf-red-mountain-bokeh-iphone-7-wallpaper 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "195-1959123_fall-leaf-red-mountain-bokeh-iphone-7-wallpaper 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
